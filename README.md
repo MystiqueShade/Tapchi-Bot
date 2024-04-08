@@ -18,6 +18,9 @@
 > /// Installer & Run:
 ## Download file && install Libery's && Run file
 ```
+git cloce https://github.com/MystiqueShade/Tapchi-Bot.git & cd Tapchi-Bot
+```
+```
 pip install -r requirements.txt
 ```
 ```python
