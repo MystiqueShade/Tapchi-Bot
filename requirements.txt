@@ -1,0 +1,6 @@
+pyrogram
+asynco
+psutil
+apscheduler
+tgcrypto
+pysondb
