@@ -1,5 +1,5 @@
 
-![info](IMG_20240329_222458_059_edit_1056632215608278.jpg)
+![info](IMG_20240408_205743_582.webp)
 
 # Telegram Tpachi Bot
 
