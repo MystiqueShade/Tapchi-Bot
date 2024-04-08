@@ -15,6 +15,14 @@
   </a>
 </p>
 
+> /// Installer & Run:
+## Download file && install Libery's && Run file
+```
+pip install -r requirements.txt
+```
+```python
+Python3 Tapchi.py
+```
 # Telegram Tpachi Bot
 
 The Telegram Auto-forward Bot is an intelligent Python-based tool designed for advertising purposes on Telegram. With advanced features and high-speed capabilities, this bot allows users to efficiently and intelligently send messages to their targeted audience without the need to delete accounts, ensuring rapid dissemination of promotional content.
